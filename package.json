@@ -1,6 +1,6 @@
 {
   "name": "bitso-ws",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple wrapper for Bitso websocket api.",
   "main": "lib/index.js",
   "scripts": {

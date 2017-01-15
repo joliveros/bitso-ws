@@ -16,14 +16,14 @@ npm install --save bitso-ws
 ```
 
 
-### AMD
+### Usage
 
 ```javascript
-var bitsoWS = require('bitso-ws');
+var bitsoWs = require('bitso-ws');
 
-bitsoWS(orders: true);
+bitsoWs(orders: true);
 
-bitsoWS.on('data', function(data) {
+bitsoWs.on('data', function(data) {
   console.log(data);
 });
 ```

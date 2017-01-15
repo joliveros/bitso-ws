@@ -1,7 +1,7 @@
 {
   "name": "bitso-ws",
   "version": "0.1.2",
-  "description": "Stream bitso rest api data",
+  "description": "Simple wrapper for Bitso websocket api.",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf lib dist",
